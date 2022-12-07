@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background: linear-gradient(to left, rgb(123, 179, 153),rgb(175, 158, 202));
+}
+.main{
+    color: aliceblue;
+display: flex;
+justify-content: space-around;
+width: 80%;
+}
+.comps{
+    margin-top: 1%;
+    width: 40%;
+    display: flex;
+justify-content: space-evenly;  
+    color: aliceblue;
+}

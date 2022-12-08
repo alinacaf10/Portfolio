@@ -1,17 +1,30 @@
 body{
     margin: 0;
-    background: linear-gradient(to left, rgb(123, 179, 153),rgb(175, 158, 202));
+
+background:lightseagreen
+
+
 }
 .main{
+margin-left: 10%;
     color: aliceblue;
 display: flex;
-justify-content: space-around;
-width: 80%;
+width: 100%;
+position: absolute;
 }
 .comps{
     margin-top: 1%;
-    width: 40%;
+    width: 30%;
     display: flex;
 justify-content: space-evenly;  
-    color: aliceblue;
 }
+button{
+    border: none;
+    background-color: lightseagreen;
+    color: aliceblue;
+
+}
+button:hover{
+    color: rgb(255, 182, 182);
+}
+

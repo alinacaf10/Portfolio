@@ -4,10 +4,10 @@ return(
     <header className="main">
         <h1>Ali Nacafov</h1>
         <div className="comps">
-        <h4>Home</h4>
-        <h4>About</h4>
-        <h4>Resume</h4>
-        <h4>Contact</h4>
+        <button>Home</button>
+        <button>About</button>
+        <button>Resume</button>
+        <button>Contact</button>
         </div>
     </header>
 )

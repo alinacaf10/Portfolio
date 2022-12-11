@@ -1,12 +1,20 @@
 import './App.css';
-import Header from './components/header';
-import Main from './components/main';
-
+import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
+import Home from './pages/Home';
+import Projects from './pages/Projects';
+import Experience from './pages/Experience';
+import Navbar from './comps/Navbar';
 function App() {
   return (
     <div className="App">
- <Header/>
- <Main/>
+ <Router>
+  <Navbar/>
+  <Routes>
+    <Route path='/' element={<Home/>}/>
+    <Route path='/projects' element={<Projects/>}/>
+    <Route path='/experience' element={<Experience/>}/>
+  </Routes>
+ </Router>
     </div>
   );
 }

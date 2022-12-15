@@ -15,7 +15,7 @@ function Home() {
         <ol className='list'>
           <li className='item'>
             <h2>Front-End</h2>
-            <span>ReactJS, Redux, HTML, CSS, JavaScript,BootStrap, MaterialUI </span>
+            <span>ReactJS, Redux, HTML, CSS, JavaScript, BootStrap, MaterialUI,  </span>
           </li>
           <li className='item'>
             <h2>Back-End</h2>
@@ -23,7 +23,7 @@ function Home() {
           </li>
           <li className='item'>
             <h2>Languages</h2>
-            <span>JavaScript, Java</span>
+            <span>JavaScript, Typescript, Java</span>
           </li>
         </ol>
       </div>

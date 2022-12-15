@@ -18,9 +18,9 @@ setExpandNavbar(false)
         </button>
       </div>
       <div className='links'>
-        <Link to="/">Home</Link>
-        <Link to="/projects">Projects</Link>
-        <Link to="/experience">Experience</Link>
+        <Link to="/" className='homes'>Home</Link>
+        <Link to="/projects" className='proje' >Projects</Link>
+        <Link to="/experience" className='exp'>Experience</Link>
       </div>
     </div>
   )

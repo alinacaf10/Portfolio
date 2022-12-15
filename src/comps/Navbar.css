@@ -20,6 +20,9 @@
     margin: 20px;
     font-size: 25px;
   }
+  .homes:hover, .proje:hover, .exp:hover{
+font-size: 26px;
+  }
   
   .toggleButton {
     width: 100%;

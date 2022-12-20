@@ -11,7 +11,9 @@ function ProjectDisplay() {
         <h1>{project.name}</h1>
         <img src={project.image}/>
         <h3>Skills: {project.skills}</h3>
+        <a href={project.link}>
         <GitHub/>
+        </a>
     </div>
   )
 }

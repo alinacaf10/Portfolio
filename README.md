@@ -1,8 +1,10 @@
+(Home Page)
 ![image](https://user-images.githubusercontent.com/100665352/207015297-dde2d7e0-4aaf-44f7-95d0-4a977600e6c1.png)
 ![image](https://user-images.githubusercontent.com/100665352/207934430-a5b23479-31fe-4da4-9324-bebb29257b8c.png)
-(Home Page)
-![image](https://user-images.githubusercontent.com/100665352/207940253-e0a26e2c-7f76-4cfe-b368-a586b285c810.png)
+(Projects Page)
+![image](https://user-images.githubusercontent.com/100665352/208655557-81a9304a-5b2e-4a12-a9ef-d0ac2b19ce2a.png)
+![image](https://user-images.githubusercontent.com/100665352/208655759-c4811e18-a176-4a65-bae6-3da0f0457e62.png)
 (Experience Page)
-
+![image](https://user-images.githubusercontent.com/100665352/207940253-e0a26e2c-7f76-4cfe-b368-a586b285c810.png)
 Mobile version
 ![image](https://user-images.githubusercontent.com/100665352/207015784-0318cf18-2303-4391-935c-302984625e50.png)

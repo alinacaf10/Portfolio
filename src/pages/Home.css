@@ -19,7 +19,7 @@
   
   .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 80px;
+    font-size: 65px;
     color: #b7e95b;
     height: 50px;
   }
@@ -35,7 +35,7 @@
   }
   
   .skills {
-    font-size: 45px;
+    font-size: 25px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -55,17 +55,17 @@
   }
   
   .list span {
-    font-size: 30px;
+    font-size: 20px;
   }
   
   @media only screen and (max-width: 600px) {
     .about h2 {
-      font-size: 40px;
+      font-size: 30px;
     }
   
     .about .prompt {
       margin-top: 10px;
-      font-size: 20px;
+      font-size: 15px;
       width: 80%;
     }
   
@@ -77,6 +77,6 @@
     }
   
     .skills h2 {
-      font-size: 30px;
+      font-size: 25px;
     }
   }

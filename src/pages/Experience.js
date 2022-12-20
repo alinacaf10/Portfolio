@@ -7,7 +7,6 @@ function Experience() {
   return (
     <div className='experience'>
       <VerticalTimeline lineColor='#3e497a'>
-        <VerticalTimeline></VerticalTimeline>
         <VerticalTimelineElement className='vertical-timeline-element--education' date='2018-2022'
         iconStyle={{background: "#3e497a", color:"#fff"}}
         icon={<School/>}>
